@@ -1,4 +1,4 @@
-# Restrict-employees Login-Hours-Allow-logon-only-Monday-to-Friday-8-00-AM-to-5-00
+# Restrict-employees Login-Hours-Allow-logon-only-Monday-to-Friday-8-00-AM-to-5-00 pm
 Flow diagram 
 Part 1: Group the Warehouse users 
 1	On the Domain Controller, open Active Directory Users and Computers (dsa.msc). 
